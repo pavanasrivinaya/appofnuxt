@@ -1,6 +1,8 @@
 import EventService from './services/EventService.js'
 
 export default {
+  mode: 'universal',
+
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
     title: 'real-worl-nuxt',
