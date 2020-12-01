@@ -18,4 +18,5 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
-https://arcane-lake-81704.herokuapp.com/
+
+https://inspiring-meninsky-a64ddb.netlify.app/
